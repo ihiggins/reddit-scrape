@@ -4,6 +4,8 @@ Scrapes subreddit data.
 Collectes the top 5099 subreddit data
 found on subredditlist.com
 
+Run: node index.js
+
 ## Json is outputted to "data-out.json"
 Format:
 
